@@ -1,0 +1,39 @@
+body{
+    background-image: url("http://www.luchtsingel.org/wp-content/uploads/2013/10/2.1.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+a{
+    margin: 10%;
+}
+#nav{
+    padding: 24px;
+    margin-right: 3%;
+    text-align: center;
+    margin-top: 20%;
+}
+#nav > a{
+    font-family: Arial, helvetica, sans-serif;
+    font-size: 48px;
+    background-color: darkorange ;
+    padding: 12px 24px;
+    color: white;
+    margin-right: 10px;
+    text-decoration:none;
+    border-radius: 3px;
+    transition: background 0.3s linear 0s, color 0.5s linear 0s;
+}
+
+#nav > a:hover {
+    background-color: gold;
+    color: #FFF;
+}
