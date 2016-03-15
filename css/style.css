@@ -7,6 +7,13 @@ body{
     padding: 0;
 }
 
+h1 {
+    text-align: center;
+    letter-spacing: 3px;
+    color: gold;
+    font-size: 90px;
+}
+
 #container{
     width: 900px;
     margin-left: auto;

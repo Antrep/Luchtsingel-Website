@@ -11,9 +11,9 @@
 <body>
 
 <div id="container">
-    <div id="header">
 
-    </div>
+      <h1>De Luchtsingel</h1>
+
 
     <div id="content">
         <div id="nav">

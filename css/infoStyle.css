@@ -7,6 +7,11 @@ body{
     padding: 0;
 }
 
+h1 {
+    letter-spacing: 3px;
+    color: gold;
+}
+
 #main{
     text-align: center;
     margin-top: 2%;
@@ -20,6 +25,7 @@ body{
     width: 900px;
     height: 100%;
     padding: 20px;
+    float: left;
 }
 
 #container{

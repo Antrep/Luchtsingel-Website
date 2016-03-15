@@ -13,7 +13,15 @@
     <div id="content">
 
         <div id="main">
-            Ik zoek info
+            <h1>De Luchtsingel</h1>
+
+            De Luchtsingel verbindt Rotterdam Noord met het centrum en brengt nieuw leven in een vergeten gebied. Dit stuk stad deed al jaren niet meer mee en werd gedomineerd door leegstand en verwaarlozing. Met de realisatie van de Luchtsingel maken we weer verbinding tussen het centraal station en Noord en tussen Noord en de Binnenrotte. Hiernaast is de Luchtsingel een vitale levensader en katalysator voor economische groei.<br>
+            Project Luchtsingel bestaat uit:<br>
+            - een houten voetgangersbrug van 390 meter<br>
+            - de DakAkker op het Schieblock<br>
+            - een publiek terrein op het voormalig station Hofplein<br>
+            - een park bij Pompenburg<br>
+            Op zaterdag 20 juni vieren we de Officiele opening van de Luchtsingel en de Dag van de Architectuur.<br>
         </div>
 
         <div id="nav">

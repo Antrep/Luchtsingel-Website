@@ -19,17 +19,9 @@
         <div id="nav">
         </div>
         <div id="main">
-            <script>
-                $(document).ready(function(){
-                    $(".time_element").timepicki();
-                });
-            </script>
         </div>
     </div>
 </div>
-<form>
-    <input type="text" name="timepicker" class="time_element"/>
-</form>
 
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
