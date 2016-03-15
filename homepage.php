@@ -20,6 +20,7 @@
             <a href=info.php>Info</a>
             <a href=live.php>Live</a>
             <a href=contact.php>Contact</a>
+            <a href="gallery.php">Gallerij</a>
         </div>
         <div id="main">
 

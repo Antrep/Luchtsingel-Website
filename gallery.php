@@ -5,7 +5,7 @@
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="css/timepicki.css">
-    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href="css/infoStyle.css" rel="stylesheet" type="text/css">
     <title></title>
 </head>
 <body>
@@ -19,20 +19,26 @@
         <div id="nav">
         </div>
         <div id="main">
-            <script>
-                $(document).ready(function(){
-                    $(".time_element").timepicki();
-                });
-            </script>
+            <form>
+                <input type="text" name="timepicker" class="time_element" style="width 300px; height: 40px; font-size: large"/>
+            </form>
+
+
+        </div>
+        <div id="nav">
+            <a href=homepage.php>Go back</a>
         </div>
     </div>
 </div>
-<form>
-    <input type="text" name="timepicker" class="time_element"/>
-</form>
+
 
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="js/loadPage.js"></script>
 <script src="js/timepicki.js"></script>
+<script>
+    $(document).ready(function(){
+        $(".time_element").timepicki();
+    });
+</script>
 </html>

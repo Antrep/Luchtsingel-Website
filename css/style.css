@@ -8,12 +8,13 @@ body{
 }
 
 #container{
-    padding-left: 10%;
-    padding-right: 10%;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a{
-    margin: 10%;
+    margin: 2%;
 }
 #nav{
     padding: 24px;
@@ -36,4 +37,8 @@ a{
 #nav > a:hover {
     background-color: gold;
     color: #FFF;
+}
+
+#main{
+    text-align: center;
 }
