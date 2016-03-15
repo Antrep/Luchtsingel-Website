@@ -9,7 +9,7 @@ Het is aan ons om op deze locatie een positieve vibe te creëren.
 
 **CONCEPT**
 _____________________________________________________
-De luchtsingel zelf is knalgeel,
+De luchtsingel zelf is knalgeel
 
 deze kleur geeft het geheel een behoorlijk energieke uitstraling,
 
