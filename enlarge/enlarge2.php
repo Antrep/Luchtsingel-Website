@@ -19,19 +19,10 @@
 
     </div>
 
-    <a href=enlarge/enlarge.php>
-        <video autoplay="true" id="videoElement1"></video>
-    </a>
-    <a href=enlarge/enlarge1.php>
-        <video autoplay="true" id="videoElement2"></video>
-    </a>
+
     <a href=enlarge/enlarge2.php>
         <video autoplay="true" id="videoElement3"></video>
     </a>
-    <a href=enlarge/enlarge3.php>
-        <video autoplay="true" id="videoElement4"></video>
-    </a>
-
 
 </div>
 
