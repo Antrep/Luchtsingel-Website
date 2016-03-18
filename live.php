@@ -14,26 +14,30 @@
 </head>
 <body>
 
-<div id="container">
-    <div id="header">
 
-    </div>
+<div id="container">
+
 
     <a href=enlarge/enlarge.php>
-        <video autoplay="true" id="videoElement1"></video>
+        <video autoplay="true" class="videoElement" id="videoElement1"></video>
     </a>
     <a href=enlarge/enlarge1.php>
-        <video autoplay="true" id="videoElement2"></video>
+        <video autoplay="true" class="videoElement" id="videoElement2"></video>
     </a>
     <a href=enlarge/enlarge2.php>
-        <video autoplay="true" id="videoElement3"></video>
+        <video autoplay="true" class="videoElement" id="videoElement3"></video>
     </a>
     <a href=enlarge/enlarge3.php>
-        <video autoplay="true" id="videoElement4"></video>
+        <video autoplay="true" class="videoElement" id="videoElement4"></video>
     </a>
-
+    <nav>
+        <a href=homepage.php>Go back</a>
+    <nav>
 
 </div>
+
+
+
 
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>

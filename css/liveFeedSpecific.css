@@ -1,14 +1,10 @@
-*
-{
-    padding: 0;
-    margin: 0;
-    border: 0;
-}
 body {
     background-image: url("http://www.luchtsingel.org/wp-content/uploads/2013/10/2.1.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
@@ -18,30 +14,25 @@ h1 {
     font-size: 90px;
 }
 
-#container
-{
-    width: 58%;
-    left: 21%;
+#container {
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
-    position: fixed;
 }
 
-a
-{
+a {
     margin: 2%;
 }
 
-nav
-{
+#nav {
     padding: 24px;
     margin-right: 3%;
     text-align: center;
     margin-top: 20%;
-    position: fixed;
 }
 
-nav > a
-{
+#nav > a {
     font-family: Arial, helvetica, sans-serif;
     font-size: 48px;
     background-color: darkorange;
@@ -51,39 +42,52 @@ nav > a
     text-decoration: none;
     border-radius: 3px;
     transition: background 0.3s linear 0s, color 0.5s linear 0s;
-    /*position: fixed;*/
-    bottom: 1%;
-    left: 40%;
-
 }
 
-nav > a:hover
-{
+#nav > a:hover {
     background-color: gold;
     color: #FFF;
 }
 
-#main
-{
+#main {
     text-align: center;
 }
-.videoElement
-{
-    width: 440px;
-    height: 330px;
+
+.booth {
+    width: 400px;
+    background: #CCC;
+    border: 10px solid #ddd;
+    margin: 0 auto;
+}
+
+#videoElement1 {
+    width: 100%;
     background-color: #666;
     cursor: pointer;
     float: left;
 
 }
 
-#videoElement1, #videoElement2,#videoElement3,#videoElement4
-{
-
+#videoElement2 {
+    width: 100%;
+    background-color: #666;
+    cursor: pointer;
+    float: left;
 }
 
+#videoElement3 {
+    width: 100%;
+    background-color: #666;
+    cursor: pointer;
+    float: left;
+}
 
-
+#videoElement4 {
+    width: 100%;
+    background-color: #666;
+    cursor: pointer;
+    float: left;
+}
 
 
 
