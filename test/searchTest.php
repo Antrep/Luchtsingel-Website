@@ -1,5 +1,3 @@
-<?php
-?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
     "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -10,55 +8,57 @@
 </head>
 <body>
 
-
-<input type="text" id="search" placeholder="Kies een dag">
-
-<!--    <form>-->
-<!--        <input type="text" id="search" name="timepicker" class="time_element" style="width 300px; height: 40px; font-size: large"/>-->
-<!--    </form>-->
+<p>Kijk de opnamens terug vanaf gister <?php echo date("h:i") ?></p>
+<input type="text" id="search" placeholder="Kies een tijd">
 
 <table id="table">
     <tr>
-        <td>Maandag</td>
-        <td>07-03-2016</td>
-        <td><a href="maandag.php">Zoek uw video</a></td>
-
+        <td>Tussen 09:00 & 10:00</td>
+        <td><a href="negen.php">Zoek uw video</a></td>
     </tr>
     <tr>
-        <td>Dinsdag</td>
-        <td>08-03-2016</td>
-        <td><a href="dinsdag.php">Zoek uw video</a></td>
-
+        <td>Tussen 10:00 & 11:00</td>
+        <td><a href="tien.php">Zoek uw video</a></td>
     </tr>
     <tr>
-        <td>Woensdag</td>
-        <td>09-03-2016</td>
-        <td><a href="woensdag.php">Zoek uw video</a></td>
-
+        <td>Tussen 11:00 & 12:00</td>
+        <td><a href="elf.php">Zoek uw video</a></td>
     </tr>
     <tr>
-        <td>Donderdag</td>
-        <td>10-03-2016</td>
-        <td><a href="donderdag.php">Zoek uw video</a></td>
-
+        <td>Tussen 12:00 & 13:00</td>
+        <td><a href="twaalf.php">Zoek uw video</a></td>
     </tr>
     <tr>
-        <td>Vrijdag</td>
-        <td>11-03-2016</td>
-        <td><a href="vrijdag.php">Zoek uw video</a></td>
-
+        <td>Tussen 13:00 & 14:00</td>
+        <td><a href="dertien.php">Zoek uw video</a></td>
     </tr>
     <tr>
-        <td>Zaterdag</td>
-        <td>12-03-2016</td>
-        <td><a href="zaterdag.php">Zoek uw video</a></td>
-
+        <td>Tussen 14:00 & 15:00</td>
+        <td><a href="veertien.php">Zoek uw video</a></td>
     </tr>
     <tr>
-        <td>Zondag</td>
-        <td>13-03-2016</td>
-        <td><a href="zondag.php">Zoek uw video</a></td>
-
+        <td>Tussen 15:00 & 16:00</td>
+        <td><a href="vijftien.php">Zoek uw video</a></td>
+    </tr>
+    <tr>
+        <td>Tussen 16:00 & 17:00</td>
+        <td><a href="zestien.php">Zoek uw video</a></td>
+    </tr>
+    <tr>
+        <td>Tussen 17:00 & 18:00</td>
+        <td><a href="zeventien.php">Zoek uw video</a></td>
+    </tr>
+    <tr>
+        <td>Tussen 18:00 & 19:00</td>
+        <td><a href="achtien.php">Zoek uw video</a></td>
+    </tr>
+    <tr>
+        <td>Tussen 19:00 & 20:00</td>
+        <td><a href="negentien.php">Zoek uw video</a></td>
+    </tr>
+    <tr>
+        <td>Tussen 20:00 & 21:00</td>
+        <td><a href="twintig.php">Zoek uw video</a></td>
     </tr>
 </table>
 

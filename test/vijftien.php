@@ -19,20 +19,20 @@
 
 <table id="table">
     <tr>
-        <td>13:45</td>
+        <td>15:45</td>
         <td><a href="#">Link to video</a> </td>
     </tr>
     <tr>
-        <td>14:32</td>
+        <td>15:32</td>
         <td><a href="#">Link to video</a></td>
     </tr>
     <tr>
-        <td>09:58</td>
+        <td>15:58</td>
         <td><a href="#">Link to video</a></td>
     </tr>
 </table>
 
-
+<a href="searchTest.php">Terug</a>
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="js/search.js"></script>
