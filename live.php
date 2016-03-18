@@ -5,7 +5,11 @@
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="css/timepicki.css">
-    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href="css/liveFeed.css" rel="stylesheet" type="text/css">
+    <meta content="stuff, to, help, search, engines, not" name="keywords">
+    <meta content="What this page is about." name="description">
+    <meta content="Display Webcam Stream" name="title">
+    <title>Display Webcam Stream</title>
     <title></title>
 </head>
 <body>
@@ -15,16 +19,23 @@
 
     </div>
 
-    <div id="content">
-        <div id="nav">
-        </div>
-        <div id="main">
-        </div>
-    </div>
+    <video autoplay="true" id="videoElement1">
+
+    </video>
+    <video autoplay="true" id="videoElement2">
+
+    </video>
+    <video autoplay="true" id="videoElement3">
+
+    </video>
+    <video autoplay="true" id="videoElement4">
+
+    </video>
+
 </div>
 
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="js/loadPage.js"></script>
-<script src="js/timepicki.js"></script>
+<script src="js/video.js"></script>
 </html>
