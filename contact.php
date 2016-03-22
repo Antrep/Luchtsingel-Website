@@ -22,6 +22,7 @@
                     <div><small><a href="http://embedgooglemaps.com">embedgooglemaps.com</a></small></div><div><small><a href="http://buyproxies.io/">buyproxies.io</a></small></div>
                 </iframe>
 
+                <script src="https://cdn.jotfor.ms/static/prototype.forms.js" type="text/javascript"></script>
                 <script src="https://cdn.jotfor.ms/static/jotform.forms.js?3.3.12172" type="text/javascript"></script>
                 <script type="text/javascript">
                     JotForm.init(function(){
