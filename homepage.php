@@ -21,6 +21,7 @@
             <a href=live.php>Live</a>
             <a href=contact.php>Contact</a>
             <a href="gallery.php">Gallerij</a>
+            <img src="https://i.imgflip.com/118i3l.gif"/>
         </div>
         <div id="main">
 
