@@ -3,8 +3,8 @@ body {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-    margin: 0;
-    padding: 0;
+    margin-top: 0px;
+    padding: 0px;
 }
 
 h1 {
@@ -25,14 +25,16 @@ a {
     margin: 2%;
 }
 
-#nav {
+nav
+{
     padding: 24px;
     margin-right: 3%;
     text-align: center;
     margin-top: 20%;
 }
 
-#nav > a {
+nav > a
+{
     font-family: Arial, helvetica, sans-serif;
     font-size: 48px;
     background-color: darkorange;
@@ -42,12 +44,18 @@ a {
     text-decoration: none;
     border-radius: 3px;
     transition: background 0.3s linear 0s, color 0.5s linear 0s;
+    /*position: fixed;*/
+    bottom: 1%;
+    left: 40%;
+
 }
 
-#nav > a:hover {
+nav > a:hover
+{
     background-color: gold;
     color: #FFF;
 }
+
 
 #main {
     text-align: center;
