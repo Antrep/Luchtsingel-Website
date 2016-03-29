@@ -6,6 +6,10 @@
 <head>
     <link rel="stylesheet" type="text/css" href="../css/timepicki.css">
     <link href="../css/liveFeedSpecific.css" rel="stylesheet" type="text/css">
+    <meta content="stuff, to, help, search, engines, not" name="keywords">
+    <meta content="What this page is about." name="description">
+    <meta content="Display Webcam Stream" name="title">
+    <title>Display Webcam Stream</title>
     <title></title>
 </head>
 <body>
@@ -15,11 +19,12 @@
 
     </div>
 
-        <video autoplay="true" id="videoElement1"></video>
+    <video autoplay="true" id="videoElement1"></video>
 
-    <div id="nav">
+    <nav>
         <a href=../live.php>Go back</a>
-    </div>
+        <nav>
+</div>
 
 </div>
 

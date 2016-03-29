@@ -25,8 +25,9 @@
 
         </div>
 
-        <div id="nav">
+        <nav>
             <a href=homepage.php>Go back</a>
+            <nav>
         </div>
     </div>
 </div>

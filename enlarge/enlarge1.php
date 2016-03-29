@@ -21,11 +21,11 @@
 
     <video autoplay="true" id="videoElement2"></video>
 
-    <div id="nav">
+    <nav>
         <a href=../live.php>Go back</a>
-    </div>
-
+        <nav>
 </div>
+
 
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
