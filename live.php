@@ -18,18 +18,22 @@
 <div id="container">
 
     <iframe class="youtubePlay"
+            width="50%"
             src="http://www.youtube.com/embed/8CIdPSe7LiM?autoplay=1">
     </iframe>
 
     <iframe class="youtubePlay"
+            width="50%"
         src="http://www.youtube.com/embed/8CIdPSe7LiM?autoplay=1">
     </iframe>
 
     <iframe class="youtubePlay"
+            width="50%"
         src="http://www.youtube.com/embed/8CIdPSe7LiM?autoplay=1">
     </iframe>
 
     <iframe class="youtubePlay"
+            width="50%"
         src="http://www.youtube.com/embed/8CIdPSe7LiM?autoplay=1">
     </iframe>
 
