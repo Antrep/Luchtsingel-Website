@@ -73,8 +73,16 @@ nav > a:hover
     background-color: #666;
     cursor: pointer;
     float: left;
-
 }
+
+.youtubePlay
+{
+    width: 50%;
+    background-color: #666;
+    cursor: pointer;
+    float: left;
+}
+
 
 #videoElement1, #videoElement2,#videoElement3,#videoElement4
 {

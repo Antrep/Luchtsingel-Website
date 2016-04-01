@@ -17,19 +17,34 @@
 
 <div id="container">
 
+    <iframe class="youtubePlay"
+            src="http://www.youtube.com/embed/8CIdPSe7LiM?autoplay=1">
+    </iframe>
 
-    <a href=enlarge/enlarge.php>
-        <video autoplay="true" class="videoElement" id="videoElement1"></video>
-    </a>
-    <a href=enlarge/enlarge1.php>
-        <video autoplay="true" class="videoElement" id="videoElement2"></video>
-    </a>
-    <a href=enlarge/enlarge2.php>
-        <video autoplay="true" class="videoElement" id="videoElement3"></video>
-    </a>
-    <a href=enlarge/enlarge3.php>
-        <video autoplay="true" class="videoElement" id="videoElement4"></video>
-    </a>
+    <iframe class="youtubePlay"
+        src="http://www.youtube.com/embed/8CIdPSe7LiM?autoplay=1">
+    </iframe>
+
+    <iframe class="youtubePlay"
+        src="http://www.youtube.com/embed/8CIdPSe7LiM?autoplay=1">
+    </iframe>
+
+    <iframe class="youtubePlay"
+        src="http://www.youtube.com/embed/8CIdPSe7LiM?autoplay=1">
+    </iframe>
+
+<!--    <a href=enlarge/enlarge.php>-->
+<!--        <video autoplay="true" class="videoElement" id="videoElement1"></video>-->
+<!--    </a>-->
+<!--    <a href=enlarge/enlarge1.php>-->
+<!--        <video autoplay="true" class="videoElement" id="videoElement2"></video>-->
+<!--    </a>-->
+<!--    <a href=enlarge/enlarge2.php>-->
+<!--        <video autoplay="true" class="videoElement" id="videoElement3"></video>-->
+<!--    </a>-->
+<!--    <a href=enlarge/enlarge3.php>-->
+<!--        <video autoplay="true" class="videoElement" id="videoElement4"></video>-->
+<!--    </a>-->
 
     <nav>
         <a href=homepage.php>Go back</a>
