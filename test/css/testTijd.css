@@ -1,0 +1,63 @@
+input {margin-bottom: 5px; padding: 2px 3px; width: 209px;}
+td {padding: 4px; border: 1px #CCC solid; width: 100px;}
+
+
+.tabel input{
+    padding:8px 15px;
+    background:rgba(255, 255, 255, 0.6);
+    border:3px solid black;
+    margin-top: 5%;
+}
+
+body{
+    background-image: url("http://www.luchtsingel.org/wp-content/uploads/2013/10/2.1.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.tabel {
+    background-color: rgba(0,0,0,0.4);
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: Arial, helvetica, sans-serif;
+
+}
+
+.tabel table{
+    color: gold;
+    font-weight: bold;
+}
+
+.tabel p{
+    text-align: center;
+    color: gold;
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    text-shadow:2px 1px 1px rgba(0,0,0,1);
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.terug input{
+    margin-top: 2%;
+    margin-left: 44.5%;
+    border : solid 1px #fff700;
+    border-radius : 6px;
+    moz-border-radius : 6px;
+    font-size : 20px;
+    color : #ffffff;
+    padding : 1px 17px;
+    background : #ffd500;
+    background : -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffd500), color-stop(100%,#ff8c00));
+    background : -moz-linear-gradient(top, #ffd500 0%, #ff8c00 100%);
+    background : -webkit-linear-gradient(top, #ffd500 0%, #ff8c00 100%);
+    background : -o-linear-gradient(top, #ffd500 0%, #ff8c00 100%);
+    background : -ms-linear-gradient(top, #ffd500 0%, #ff8c00 100%);
+    background : linear-gradient(top, #ffd500 0%, #ff8c00 100%);
+    filter : progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffd500', endColorstr='#ff8c00',GradientType=0 );
+
+}
