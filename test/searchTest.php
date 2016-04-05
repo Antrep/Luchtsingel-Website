@@ -3,15 +3,18 @@
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="../css/timepicki.css">
+    <link href='https://fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>
     <link href="css/test.css" rel="stylesheet" type="text/css">
     <title></title>
 </head>
 <body>
 
-<p>Kijk de opnamens terug vanaf gister <?php echo date("h:i") ?></p>
+<div class="tabel">
+    <p>Bekijk de opnamens terug vanaf gister <?php echo date("h:i") ?></p>
+
 <input type="text" id="search" placeholder="Kies een tijd">
 
-<table id="table">
+<table id="table" style="margin: auto;">
     <tr>
         <td>Tussen 09:00 & 10:00</td>
         <td><a href="negen.php">Zoek uw video</a></td>
@@ -21,7 +24,7 @@
         <td><a href="tien.php">Zoek uw video</a></td>
     </tr>
     <tr>
-        <td>Tussen 11:00 & 12:00</td>
+        <td>Tussen 11:00 & 12:00 </td>
         <td><a href="elf.php">Zoek uw video</a></td>
     </tr>
     <tr>
@@ -61,7 +64,7 @@
         <td><a href="twintig.php">Zoek uw video</a></td>
     </tr>
 </table>
-
+</div>
 
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>

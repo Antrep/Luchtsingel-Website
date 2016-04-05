@@ -5,19 +5,16 @@
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="../css/timepicki.css">
-    <link href="css/test.css" rel="stylesheet" type="text/css">
+    <link href="css/testTijd.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>
     <title></title>
 </head>
 <body>
 
-
+<div class="tabel">
+<p>Zoek hier uw video</p>
 <input type="time" id="search" placeholder="Hoelaat was u bij de luchtbrug">
-
-<!--    <form>-->
-<!--        <input type="text" id="search" name="timepicker" class="time_element" style="width 300px; height: 40px; font-size: large"/>-->
-<!--    </form>-->
-
-<table id="table">
+<table id="table" style="margin: auto">
     <tr>
         <td>18:32</td>
         <td><a href="#">Link to video</a> </td>
@@ -31,8 +28,15 @@
         <td><a href="#">Link to video</a></td>
     </tr>
 </table>
+<br>
+</div>
 
-<a href="searchTest.php">Terug</a>
+<div class="terug">
+<form action="searchTest.php">
+    <input type="submit" value="Terug">
+</form>
+</div>
+
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="js/search.js"></script>

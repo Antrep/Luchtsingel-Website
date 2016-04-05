@@ -1,3 +1,50 @@
 body {padding: 20px;}
 input {margin-bottom: 5px; padding: 2px 3px; width: 209px;}
 td {padding: 4px; border: 1px #CCC solid; width: 100px;}
+
+form {
+    width:500px;
+    margin:50px auto;
+}
+
+.tabel input{
+    padding:8px 15px;
+    background:rgba(50, 50, 50, 0.6);
+    border:3px solid black;
+    margin-top: 5%;
+    color: whitesmoke;
+}
+
+body{
+    background-image: url("http://www.luchtsingel.org/wp-content/uploads/2013/10/2.1.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.tabel {
+    background-color: rgba(0,0,0,0.4);
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: Arial, helvetica, sans-serif;
+    color: gold;
+}
+
+
+.tabel table{
+    background-color: rgba(0,0,0,0.4);
+    font-weight: bold;
+}
+
+.tabel p{
+    text-align: center;
+    color: gold;
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    text-shadow:2px 1px 1px rgba(0,0,0,1);
+    margin-left: 30%;
+    margin-right: 30%;
+}
