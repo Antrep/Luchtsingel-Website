@@ -21,6 +21,7 @@
             <a href=live.php>Live</a>
             <a href=contact.php>Contact</a>
             <a href="test/searchTest.php">Gallerij</a>
+            <a href="donate.php">Doneer</a>
         </div>
         <div id="main">
 

@@ -27,3 +27,7 @@ screen1.addEventListener("click", enlarge);
 function enlarge(){
     window.location ="../enlarge/enlarge.php";
 }
+
+
+//---------------------------------------------------------------------------------------------------------------------------------------
+

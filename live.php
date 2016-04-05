@@ -19,17 +19,17 @@
 
     <iframe class="youtubePlay"
             width="50%"
-            src="http://www.youtube.com/embed/8CIdPSe7LiM?autoplay=1">
+            src="http://www.youtube.com/embed/fBE4bz-d_x8?autoplay=1">
     </iframe>
 
     <iframe class="youtubePlay"
             width="50%"
-        src="http://www.youtube.com/embed/8CIdPSe7LiM?autoplay=1">
+        src="http://www.youtube.com/embed/OsoeBtjqUr4?autoplay=1">
     </iframe>
 
     <iframe class="youtubePlay"
             width="50%"
-        src="http://www.youtube.com/embed/8CIdPSe7LiM?autoplay=1">
+        src="http://www.youtube.com/embed/yolkegePRQc?autoplay=1">
     </iframe>
 
     <iframe class="youtubePlay"
