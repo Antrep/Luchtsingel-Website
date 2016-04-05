@@ -1,11 +1,4 @@
-
-/**
- * Created by Tom on 15-3-16.
- * Created by Tom on 18-3-16.
- */
-
-
-/*! Fades out the whole page when clicking links */
+/*! Fade effect als je op een link drukt */
 $('a').click(function(e) {
     e.preventDefault();
     newLocation = this.href;
@@ -17,13 +10,13 @@ function newpage() {
 
 $(document).ready(function(){
 
-    /*! Fades in whole page on load */
+    /*! Fade effect als de pagina laad */
     $('body').css('display', 'none');
     $('body').fadeIn(500);
 
 });
 
-/*! Reloads page on every visit */
+/*! herlaad de pagina elke keer als je herlaad */
 function Reload() {
     try {
         var headElement = document.getElementsByTagName("head")[0];
