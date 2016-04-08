@@ -14,7 +14,7 @@
     <div class="booth">
         <video autoplay="true" class="videoElement" id="videoElement1" width="400" height="300"></video>
 <!--        <video id="video" width="400" height="300"></video>-->
-    <a href="a" id="capture" class="booth-capture-button">Take Photo</a>
+    <a href="#" id="capture" class="booth-capture-button">Take Photo</a>
         <canvas id="canvas" width="400" height="300"></canvas>
 
     </div>

@@ -17,24 +17,24 @@
 
 <div id="container">
 
-    <iframe class="youtubePlay"
-            width="50%"
+    <iframe width="375" height="300"
+            class="youtubePlay"
             src="http://www.youtube.com/embed/fBE4bz-d_x8?autoplay=1">
     </iframe>
 
     <iframe class="youtubePlay"
-            width="50%"
-        src="http://www.youtube.com/embed/OsoeBtjqUr4?autoplay=1">
+            width="375" height="300"
+            src="http://www.youtube.com/embed/OsoeBtjqUr4?autoplay=1">
     </iframe>
 
     <iframe class="youtubePlay"
-            width="50%"
-        src="http://www.youtube.com/embed/yolkegePRQc?autoplay=1">
+            width="375" height="300"
+            src="http://www.youtube.com/embed/yolkegePRQc?autoplay=1">
     </iframe>
 
     <iframe class="youtubePlay"
-            width="50%"
-        src="http://www.youtube.com/embed/8CIdPSe7LiM?autoplay=1">
+            width="375" height="300"
+            src="http://www.youtube.com/embed/8CIdPSe7LiM?autoplay=1">
     </iframe>
 
 <!--    <a href=enlarge/enlarge.php>-->

@@ -22,5 +22,6 @@
 
     document.getElementById('capture').addEventListener('click', function(){
         context.drawImage(video, 0, 0, 400, 300);
+        photo.setAttribute('src', canvas.toDataUrl())
     })
 })();
